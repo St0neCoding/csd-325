@@ -1,7 +1,7 @@
 import requests
 
 base_url = "https://api.openweathermap.org/data/2.5/weather"
-appid = "98ee3a68d1e4fa2de0b10daa70026403"
+appid = ""
 
 get_weather = "yes"
 
